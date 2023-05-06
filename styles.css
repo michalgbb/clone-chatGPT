@@ -77,7 +77,7 @@ input:focus {
 .input-container {
     position: relative;
     width: 100%;
-    max-width: 850px;
+    max-width: 650px;
     display: flex; 
 }
 
