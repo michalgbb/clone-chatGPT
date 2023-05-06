@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2023 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="paper-plane" unicode="&#xe800;" d="M894 720q14 4 22-3t4-19q-2-6-72-310t-74-316q-2-14-14-19t-24 1l-248 134-30 16 22 26q388 420 394 426 4 4-1 9t-9 1l-550-402-112 44-190 76q-12 4-12 12t12 12q8 4 441 157t441 155z m-582-728l0 204 160-82q-130-116-142-128-18-14-18 6z" horiz-adv-x="921" />
+
+<glyph glyph-name="right-small" unicode="&#xe801;" d="M328 595q15 15 36 15t37-15l245-245-245-245q-15-15-36-15-22 0-37 15t-15 37 15 37l120 119-395 0q-22 0-37 15t-16 37 16 37 37 16l395 0-120 118q-15 15-15 37t15 37z" horiz-adv-x="646" />
+
+<glyph glyph-name="right" unicode="&#xe802;" d="M0 347q0 26 18 43t43 17h642l-242 244q-19 18-19 44t19 42q17 19 42 19t44-19l390-390-390-391q-20-18-44-18t-42 18-19 44 19 43l242 242h-642q-25 0-43 18t-18 44z" horiz-adv-x="938" />
+
+<glyph glyph-name="right-circle" unicode="&#xe803;" d="M1000 349q0-136-67-251t-182-182-251-67-251 67-182 182-67 251 67 251 182 182 251 67 251-67 182-182 67-251z m-547-232l233 232-233 232-71-71 161-161-161-161z" horiz-adv-x="1000" />
+
+<glyph glyph-name="right-1" unicode="&#xe804;" d="M464 797l447-446-447-448-157 160 175 176-464 0 0 224 464 0-175 176z" horiz-adv-x="928" />
+
+<glyph glyph-name="right-open" unicode="&#xe805;" d="M618 361l-414-415q-11-10-25-10t-25 10l-93 93q-11 11-11 25t11 25l296 297-296 296q-11 11-11 25t11 25l93 93q10 11 25 11t25-11l414-414q10-11 10-25t-10-25z" horiz-adv-x="714.3" />
+</font>
+</defs>
+</svg>
