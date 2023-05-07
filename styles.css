@@ -97,15 +97,17 @@ button {
     cursor: pointer;
 }
 
-.nav {
+/* .nav {
     border-top: solid 0.5px rgba(255, 255, 255, 0.5);
-}    
+}     */
 
 .nav p {
     text-align: center;
-    margin: 10px;
-    padding: 10px;
+    font-weight: 100;
+    margin: 10px 5px 10px 5px  ;
+    padding: 20px 0 10px 0;
     font-size: 14px;
+    border-top: solid 0.5px rgba(255, 255, 255, 0.5);
 }
 
 .history {
