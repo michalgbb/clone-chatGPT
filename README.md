@@ -13,15 +13,15 @@ Clone the project
   git clone https://github.com/michalgbb/clone-chatGPT.git
 ```
 
-Go to the project directory 
+Go to the project 
 
 ```bash
   cd clone-chatGPT/app.js
 ```
-and put your API_KEY from OpenAI Chat GPT 
+Put your API_KEY from OpenAI chatGPT API reference
 
 ```http
-  https://platform.openai.com/account/api-keys
+  platform.openai.com/account/api-keys
 ```
 
 
