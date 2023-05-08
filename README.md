@@ -21,7 +21,7 @@ Go to the project
 Put your API_KEY from OpenAI chatGPT API reference
 
 ```http
-  platform.openai.com/account/api-keys
+  https://platform.openai.com/account/api-keys
 ```
 
 
