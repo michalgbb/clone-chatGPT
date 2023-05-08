@@ -3,9 +3,11 @@
 
 Clone chatGPT front-end website bulid with HTML, JavaScript and CSS.
 
-## Run only locally
+## Run only locally!
 
 The project has no a backend, use it only locally! Otherwise, your API keys will be visible in the app.js file.
+
+## Installation
 
 Clone the project
 
